@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Javascript, React, MongoDB.
-- 👯 I’m looking to collaborate on a startup
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love play to piano but no time to play (that's fun)
+- 🌱  I’m currently learning Javascript, React, MongoDB.
+- 👯  I’m looking to collaborate on a startup
+- 💬  Ask me about to be a web dev
+- 😄  Pronouns: 'he/him'
+- ⚡  Fun fact: I love play to piano but no time to play (that's fun)
 
 ---
 ### 🚀 Coding
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"/>
-
+<br>
 </br>
 
 ---
