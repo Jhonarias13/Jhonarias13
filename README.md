@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jhonarias13&label=Profile%20views&color=0079d6&style=flat" alt="jhonarias13" /> </p>
 
 ### 👨🏾‍💻 Full Stack Developer (MERN & MEAN)
-Here are some ideas to get you started:
 
 ---
 ### 🚀 Coding
