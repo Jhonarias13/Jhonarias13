@@ -7,13 +7,6 @@
 ### 👨🏾‍💻 Full Stack Developer (MERN & MEAN)
 Here are some ideas to get you started:
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱  I’m currently learning Javascript, React, MongoDB.
-- 👯  I’m looking to collaborate on a startup
-- 💬  Ask me about to be a web dev
-- 😄  Pronouns: 'he/him'
-- ⚡  Fun fact: I love play to piano but no time to play (that's fun)
-
 ---
 ### 🚀 Coding
 
