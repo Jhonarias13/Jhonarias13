@@ -1,16 +1,41 @@
-# 👋 Hi, I'm [Jhon Freiman Arias](https://www.instagram.com/jhonarias_13/) 
+# 👋 Hi, I'm [Jhon Freiman Arias](https://www.instagram.com/jhonarias_13/)
+
+🌐 **Website:** [jhonarias.dev](https://jhonarias.dev/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jhonarias13&label=Profile%20views&color=0079d6&style=flat" alt="Profile Views" />
 </p>
 
+## 🚀 Full Stack Developer | AI Automation | Product Thinking
+Building scalable software, intelligent workflows, and digital products with real business impact.
+
 ---
 
 ## 👨‍💻 About Me
 
-Hello, world! 👨‍💻 I’m Jhon Freiman Arias, a programmer who fell in love with code the first time a "Hello, World!" worked. Whether it's building slick web interfaces, optimizing backends, or connecting the dots in complex systems, I’m here for the thrill of solving problems and creating something amazing from scratch.
+I'm a developer passionate about building useful, clean, and scalable solutions.
 
-Programming, for me, is like solving a puzzle where I get to be both the designer and the solver. I enjoy turning caffeine into clean code and bugs into features (or at least pretending they’re features). When I’m not busy coding, you might find me tinkering with new tech, brainstorming crazy app ideas, or simply wondering why semicolons sometimes seem optional but aren't.
+My experience includes:
+
+- Developing modern web applications with **React, Next.js, Angular, Node.js, and Python**
+- Designing and integrating **REST APIs**, backend services, and database-driven systems
+- Building **AI assistants, bots, and automations** for customer service and lead capture
+- Deploying and maintaining solutions in **AWS**, Dockerized environments, and cloud-based architectures
+- Leading initiatives as a **Product Owner** and organizing teams and workflows with **Jira**
+- Bridging the gap between **business needs, user experience, and technical implementation**
+
+I enjoy working on products where software can create measurable impact, especially in industries with operational complexity such as healthcare, logistics, and commerce.
+
+---
+
+## 🧠 What I Work On
+
+- **Full Stack Web Development**
+- **AI Integrations & Automation**
+- **Product Strategy & Technical Leadership**
+- **Cloud Architecture & Deployment**
+- **Process Optimization with Software**
+- **Conversational Bots & Internal Tools**
 
 ---
 
@@ -23,45 +48,70 @@ Programming, for me, is like solving a puzzle where I get to be both the designe
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠️ Technologies & Tools
 
-### Programming Languages
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-<br>
+### Languages
+<p>
+  <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+  <img alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+  <img alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+</p>
 
-### Frontend Development
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
-<img align="left" alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
-<br>
+### Frontend
+<p>
+  <img alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+  <img alt="Next.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nextjs/nextjs.png" />
+  <img alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" />
+</p>
 
-### Backend Development
-<img align="left" alt="Node.js" width="40px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
-<img align="left" alt="Express.js" width="40px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />
-<img align="left" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
-<img align="left" alt="REST APIs" width="40px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
-<br>
+### Backend
+<p>
+  <img alt="Node.js" width="40px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
+  <img alt="Express.js" width="40px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" />
+  <img alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/fastapi/fastapi.png" />
+  <img alt="REST APIs" width="40px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
+</p>
 
 ### Databases
-<img align="left" alt="MongoDB" width="40px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
-<br>
+<p>
+  <img alt="MongoDB" width="40px" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" />
+  <img alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+</p>
 
 ### DevOps & Cloud
-<img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<img align="left" alt="AWS" width="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
-<img align="left" alt="GCP" width="40px" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" />
-<br>
+<p>
+  <img alt="Docker" width="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+  <img alt="AWS" width="40px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
+  <img alt="GCP" width="40px" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" />
+</p>
+
+### Workflow & Product
+<p>
+  <img alt="Jira" width="40px" src="https://cdn.simpleicons.org/jira" />
+  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+  <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+</p>
+
+---
+
+## 💼 Areas of Impact
+
+- Healthcare and pharmaceutical technology
+- AI-powered customer support and lead capture
+- Social media data processing and sentiment analysis
+- Internal operational tools and workflow automation
+- Web platforms focused on performance and user experience
 
 ---
 
 ## 📫 Contact Me
 
+- **Website**: [jhonarias.dev](https://jhonarias.dev/)
 - **Instagram**: [@jhonarias_13](https://www.instagram.com/jhonarias_13/)
 - **GitHub**: [Jhonarias13](https://github.com/Jhonarias13)
 
 ---
 
-<p align="center">✨ Let's build amazing things together! ✨</p>
+<p align="center">
+  ✨ Building products, automating processes, and turning ideas into real solutions. ✨
+</p>
